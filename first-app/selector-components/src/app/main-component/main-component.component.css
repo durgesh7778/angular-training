@@ -1,0 +1,28 @@
+.section{
+    width: 1000px;
+    background-color: darkgrey;
+    height: 600px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+.header{
+    line-height: 20px;
+    background-color: cornflowerblue;
+    display: block;
+    padding: 20px;
+    margin: 20px 0px 20px 0px;
+    font-size: x-large;
+    color: whitesmoke;
+    text-align: center;
+    border-radius: 10px;
+}
+.right-section{
+    width: 490px;
+    float: left;
+    background-color: gainsboro;
+}
+.left-section{
+    width: 490px;
+    float: right;
+    background-color: gainsboro;
+}

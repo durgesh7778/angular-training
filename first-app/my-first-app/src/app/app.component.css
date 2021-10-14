@@ -1,0 +1,12 @@
+h2
+{
+    color:blue;
+    text-align: center;
+    
+}
+h2 span{
+    color: crimson;
+    font-weight: bolder;
+    text-decoration:underline;
+    
+}
